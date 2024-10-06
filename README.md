@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data analytics Python projects
 - 📫 How to reach me rathinagrace@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Rathinagrace/Rathinagrace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
